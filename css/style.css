@@ -1,0 +1,52 @@
+.title-image {
+  width: auto;
+}
+
+.nav {
+  height: auto;
+  margin-left: 20px;
+  font-family: "ubuntu", sans-serif;
+  text-align: right;
+  color: white;
+}
+
+a {
+  color: green;
+}
+
+.white-text {
+  color: white;
+}
+
+.parallax { 
+  background-image: url("http://i.giphy.com/ZwMF9XIF7eo9i.gif"); 
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h2 {
+  font-family: "vt323", monospace;
+}
+
+h4 {
+  font-family: "vt323", monospace;
+}
+
+p {
+  font-family: "ubuntu", sans-serif;
+  font-size: 12px;
+}
+
+pre {
+  background-color: white;
+  border: 0;
+  font: 10px/5px monospace;
+}
+
+.thumb {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  max-height: 200px;
+}
