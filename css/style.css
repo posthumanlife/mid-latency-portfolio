@@ -46,7 +46,22 @@ pre {
 }
 
 .thumb {
+  opacity: 0.5;
   margin-top: 30px;
   margin-bottom: 30px;
-  max-height: 180px;
+  max-height: 200px;
+}
+
+.thumb:hover {
+  opacity: 1;
+}
+
+.logo {
+  margin-top: 12px;
+  max-width: 150px;
+  opacity: 0.5;
+}
+
+.logo:hover {
+  opacity: 1;
 }
