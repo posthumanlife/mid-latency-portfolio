@@ -48,6 +48,7 @@ pre {
 .thumb {
   opacity: 0.5;
   margin-top: 30px;
+  margin-left: 0px;
   margin-bottom: 30px;
   max-height: 200px;
 }
