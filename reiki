@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html >
+<head>
+  <meta charset="UTF-8">
+  <title>mid-latency-portfolio</title>
+    
+  <link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css'>
+
+  <link href="https://fonts.googleapis.com/css?family=Ubuntu:300|VT323" rel="stylesheet">
+  
+      <link rel="stylesheet" href="css/style.css">
+
+  
+</head>
+
+<body>
+
+<div class="col-md-12 col-xs-12">
+  <h1>reiki praktijk usuido
+  </h1>
+  <h3>behandelingen aan huis
+  </h3>
+</div>
+
+  <div class="col-md-6 col-xs-12">
+      <h2 id="overmij">wie ik ben
+      </h2>
+      <p><b>malcolm kratz; reiki master & master of arts</b></p>
+      <p>mijn beroep is onbekend. niet dat het een geheim is.. het is meer omdat ik niet precies weet wat ik ben. wat ik wel ervaar is dat onze maatschappij langzaam vergaat. we hopen op technologische oplossingen voor grote en kleine problemen, terwijl wat we eigenlijk doen is; wegkijken en door-buffelen. wij zijn de zaden voor een nieuwe maatschappij. een waar we eenieder niet alleen zullen ondersteunen voor de vrije ontwikkeling van begrip, rationaliteit en emoties, maar ook beweging en denken. aanraking; een van de krachtigste begrippen van affectie, is een perfecte start voor deze ondersteuning, waar blokkades wegebben en energie weer begint te stromen!</p>
+  </div>
+  
+   <div class="row">
+      <div class="col-md-3 col-xs-6">
+        <img class="center-block img-responsive thumb" src="http://posthuman.life/image/portrait.jpg">
+      </div>
+    </div>
+  
+  <div class="col-md-6 col-xs-12">
+    <h2 id="reiki">reiki</h2>
+    <p>de naam luidt officieel 'Usui Shiku Ryoh' (de usui reiki methode). reiki is een vorm van energieoverdracht. de helende energie werkt zowel op lichamelijk als op geestelijk, emotioneel en spiritueel niveau. Het mooie is dat iedereen die zich er voor openstelt het kan leren.</p>
+      
+    <p>behandelingen kunnen verscheidene duren hebben. een 1 uur durende behandeling is ten zeerste aan te raden.</p>
+    <p><b>alle behandelingen zijn op donatie</b> voor 1 uur behandelen geld een suggestie van reiskosten plus 30 euro.</p>
+  </div>
+  
+  <div class="col-md-6 col-xs-12">
+      <h2 id="ervaring">ervaring
+      </h2>
+    <div class="col-md-3>"
+      <p><b>100+ behandepingen op donatie</b></p>
+      <p><b>kurama-yama, japan</b>; volledige master graad reiki</p>
+      <p><b>civas, nederland</b>; volledige master graad reiki
+      </p>
+      <p><b>nederhof centrum/reiki instituut, nederland</b>; eerste graads reiki
+      </p>
+  </div>
+</div>
+
+    <div class="col-md-6 col-xs-12">
+      <h2 id="contact">contact</h2>
+
+      <p><b>malcolm kratz</b>; email <a href="mailto:malcolm@posthuman.life? subject=moshimoshi">malcolm@posthuman.life</a> - telefoon <a href="tel:0031631046400">0031631046400</a></p>
+      
+    </div>
+</body>
