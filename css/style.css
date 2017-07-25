@@ -26,6 +26,10 @@ a {
   background-size: cover;
 }
 
+h1 {
+  font-family: "vt323", monospace;
+}
+
 h2 {
   font-family: "vt323", monospace;
 }
